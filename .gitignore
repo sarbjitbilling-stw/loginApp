@@ -1,0 +1,14 @@
+# generic
+logs/
+*.log
+
+# macos
+.DS_Store
+
+# intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+node_modules/
